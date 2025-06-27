@@ -38,3 +38,7 @@ To ensure a complete demonstration, the tool also creates a sample input file if
 
 Conclusion:
 The Multithreaded File Compression Tool successfully meets the objectives outlined in CODTECH Internship Task-2. It provides a working example of how multithreading can be used to optimize the performance of file processing operations in C++. This project not only demonstrates technical proficiency in C++ but also highlights the importance of writing efficient, scalable, and well-organized code. It lays a solid foundation for more advanced compression utilities and multithreaded applications in the future.
+
+
+*OUTPUT
+<img width="1470" alt="Image" src="https://github.com/user-attachments/assets/4a048836-1cdd-4307-b5f1-7de67228b2ce" />
